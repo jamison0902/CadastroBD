@@ -3,6 +3,8 @@ Criação de aplicativo Java, com acesso ao banco de dados SQL Server através d
 
 ![alt text](app.png)
 
+<hr>
+
 ### Versão do Software
 
 * SQL Server Management Studio 19
@@ -10,7 +12,7 @@ Criação de aplicativo Java, com acesso ao banco de dados SQL Server através d
 * NetBeans 18
 * JDK 8
 
-
+<hr>
 
 ### Arquivos
 
